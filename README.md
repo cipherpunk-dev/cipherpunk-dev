@@ -1,5 +1,3 @@
-<div align="center">
-
 # 
 ```text
                                                                                   
@@ -19,9 +17,10 @@
             `--`---'                    `-'----'             `--`---'             
                                                                                   
 ```
-### Hey There I'm a Passionate Learner and Programmer 🔭
+### Hi there, I'm a Passionate Learner and Programmer 🔭
 
-- 🔭 I’m currently working on **cube-ttt A game theory + web based game** - 🌱 I’m currently learning **Three.js**
+- 🔭 Currently working on **cube-ttt (A game theory + web based game)**
+- 🌱 I’m currently learning **Three.js**
 
 ### 🎸 Hobbies
 - Guitar
