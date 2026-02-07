@@ -1,26 +1,7 @@
-# 
-```text
-                                                                                  
-                                                                                  
-  .--.--.                         ____              ,---,                         
- /  /    '.                     ,'  , `.  ,---,   ,--.' |                         
-|  :  /`. /                  ,-+-,.' _ |,---.'|   |  |  :                         
-;  |  |--`                ,-+-. ;   , |||   | :   :  :  :                   .---. 
-|  :  ;_      ,--.--.    ,--.'|'   |  ||:   : :   :  |  |,--.  ,--.--.    /.  ./| 
- \  \    `.  /       \  |   |  ,', |  |,:     |,-.|  :  '   | /       \ .-' . ' | 
-  `----.   \.--.  .-. | |   | /  | |--' |   : '  ||  |   /' :.--.  .-. /___/ \: | 
-  __ \  \  | \__\/: . . |   : |  | ,    |   |  / :'  :  | | | \__\/: . .   \  ' . 
- /  /`--'  / ," .--.; | |   : |  |/     '   : |: ||  |  ' | : ," .--.; |\   \   ' 
-'--'.     / /  /  ,.  | |   | |`-'      |   | '/ :|  :  :_:,'/  /  ,.  | \   \    
-  `--'---' ;  :   .'   \|   ;/          |   :    ||  | ,'   ;  :   .'   \ \   \ | 
-           |  ,     .-./'---'           /    \  / `--''     |  ,     .-./  '---"  
-            `--`---'                    `-'----'             `--`---'             
-                                                                                  
-```
-### Hi there, I'm a Passionate Learner and Programmer 🔭
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:240046,100:0d0221&height=300&section=header&text=Hi,%20I'm%20Sambhav&fontSize=70&fontColor=ff0054&animation=fadeIn&fontAlignY=38&desc=Three.js%20Developer%20•%20Game%20Theory%20Enthusiast%20•%20Cipherpunk%20Dev&descSize=20&descAlignY=55)](https://github.com/cipherpunk-dev)
+### Hi there, I'm Sambhav, a Passionate Learner and Programmer 🔭
 
-- 🔭 Currently working on **cube-ttt (A game theory + web based game)**
-- 🌱 I’m currently learning **Three.js**
+- 🌱 Currently working on **cube-ttt (A game theory + web based game)**
 
 ### 🎸 Hobbies
 - Guitar
