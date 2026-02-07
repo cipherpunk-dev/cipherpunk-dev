@@ -49,3 +49,19 @@
 
 ### 🌐 My Portfolio
 [Check out my work here!](https://your-portfolio-link.com)
+
+<h3>📊 My GitHub Contributions Summary</h3>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=cipgerpunk-dev&theme=dark&ring=fb4362&fire=fb4362&currStreakNum=fb4362&sideLabels=9e9e9e&currStreakLabel=fb4362&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cipgerpunk-dev&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e" alt="cipgerpunk-dev's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipgerpunk-dev&layout=compact&hide_border=true&bg_color=151515&title_color=fb4362&text_color=9e9e9e" alt="Top Languages" />
+</p>
