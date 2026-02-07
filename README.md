@@ -1,15 +1,15 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:240046,100:0d0221&height=300&section=header&text=Hi%20there,%20I'm%20Sambhav&fontSize=60&fontColor=ff0054&animation=fadeIn&fontAlignY=38&desc=A%20Passionate%20Learner%20and%20Programmer&descSize=22&descAlignY=55)](https://github.com/cipherpunk-dev)
-### Hi there, I'm Sambhav, a Passionate Learner and Programmer 🔭
 
+### Currently working/learning :
 - 🌱 Currently working on **cube-ttt (A game theory + web based game)**
 
-### 🎸 Hobbies
+### 🎸 Hobbies :
 - Guitar
 - Crosswords
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## 💻 Tech Stack & Digital Tools
+## 💻 Tech Stack & Digital Tools :
 
 <p>
   <a href="https://github.com/search?q=user%3Acipherpunk-dev+language%3Ahtml"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="28"></a>
@@ -20,7 +20,7 @@
   <a href="https://github.com/search?q=user%3Acipherpunk-dev+language%3Abash"><img alt="C" src="https://img.shields.io/badge/Terminal-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" height="28"></a>
 </p>
 
-## 📚 Frameworks & Libraries
+## 📚 Frameworks & Libraries :
 
 <p>
   <a href="https://github.com/search?q=user%3Acipherpunk-dev+topic%3Athree-js"><img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" height="28"></a>
@@ -29,7 +29,7 @@
 </p>
 
 
-## 🗄️ Database & Cloud Infrastructure
+## 🗄️ Database & Cloud Infrastructure :
 
 <p>
   <a href="https://github.com/search?q=user%3Acipherpunk-dev+topic%3Amysql"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28"></a>
@@ -37,7 +37,7 @@
 </p>
 
 
-## 🛠️ Software & System Tools
+## 🛠️ Software & System Tools :
 
 <p>
   <a href="https://ubuntu.com/"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E9433F?style=for-the-badge&logo=ubuntu&logoColor=white" height="28"></a>
@@ -48,7 +48,14 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-### 🌐 My Portfolio
+### 🌐 My Portfolio :
 [Check out my work here!](https://your-portfolio-link.com)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cipherpunk-dev/cipherpunk-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cipherpunk-dev/cipherpunk-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cipherpunk-dev/cipherpunk-dev/output/pacman-contribution-graph.svg">
+</picture>
+
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 
