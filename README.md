@@ -16,7 +16,7 @@
   <a href="https://github.com/search?q=user%3Acipgerpunk-dev+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28"></a>
   <a href="https://github.com/search?q=user%3Acipgerpunk-dev+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"></a>
   <a href="https://github.com/search?q=user%3Acipgerpunk-dev+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="28"></a>
-  <a href="https://github.com/search?q=user%3Acipgerpunk-dev+language%3Abash"><img alt="Terminal" src="https://img.shields.io/badge/Terminal-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" height="28"></a>
+  <a href="https://github.com/search?q=user%3Acipgerpunk-dev+language%3Abash"><img alt="C" src="https://img.shields.io/badge/Terminal-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" height="28"></a>
 </p>
 
 ## 📚 Frameworks & Libraries
