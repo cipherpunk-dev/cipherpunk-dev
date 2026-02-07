@@ -1,11 +1,7 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:240046,100:0d0221&height=300&section=header&text=Hi%20there,%20I'm%20Sambhav&fontSize=60&fontColor=ff0054&animation=fadeIn&fontAlignY=38&desc=A%20Passionate%20Learner%20and%20Programmer&descSize=22&descAlignY=55)](https://github.com/cipherpunk-dev)
 
-### Currently working/learning :
+### What I'm upto these days :
 - 🌱 Currently working on **cube-ttt (A game theory + web based game)**
-
-### 🎸 Hobbies :
-- Guitar
-- Crosswords
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -47,6 +43,9 @@
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+### 🎸 Hobbies :
+- Guitar
+- Crosswords
 
 ### 🌐 My Portfolio :
 [Check out my work here!](https://your-portfolio-link.com)
