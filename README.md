@@ -50,18 +50,21 @@
 ### 🌐 My Portfolio
 [Check out my work here!](https://your-portfolio-link.com)
 
-<h3>📊 My GitHub Contributions Summary</h3>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=cipherpunk-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cipherpunk-dev&hide_border=true&show_icons=true&theme=tokyonight" alt="cipherpunk-dev's GitHub stats" />
-</p>
+###
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipherpunk-dev&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
