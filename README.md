@@ -1,4 +1,4 @@
-### Hi there, I'm Sambhav Sharma 🔭
+### Hi there, I'm Sambhav, A Passionate Learner 🔭
 
 <!--
 - 🔭 I’m currently working on ...
@@ -15,7 +15,7 @@
 -  Crosswords
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-### 💻 Tech Stack & Digital Tools
+###💻 Tech Stack & Digital Tools
 <p>
   <a href="https://github.com/search?q=user%3Acipgerpunk-dev+language%3Ahtml"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="28"></a>
   <a href="https://github.com/search?q=user%3Acipgerpunk-dev+language%3Acss"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="28"></a>
@@ -24,5 +24,33 @@
   <a href="https://github.com/search?q=user%3Acipgerpunk-dev+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="28"></a>
   <a href="https://github.com/search?q=user%3Acipgerpunk-dev+language%3Abash"><img alt="Terminal" src="https://img.shields.io/badge/Terminal-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" height="28"></a>
 </p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+## 📚 Frameworks & Libraries
+<p>
+  <a href="https://github.com/search?q=user%3Acipgerpunk-dev+topic%3Athree-js"><img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" height="28"></a>
+  <a href="https://github.com/search?q=user%3Acipgerpunk-dev+topic%3Atailwind"><img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="28"></a>
+  <a href="https://github.com/search?q=user%3Acipgerpunk-dev+topic%3Anodejs"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28"></a>
+</p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+###🗄️ Database & Cloud Infrastructure
+<p>
+  <a href="https://github.com/search?q=user%3Acipgerpunk-dev+topic%3Amysql"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28"></a>
+  <a href="https://github.com/search?q=user%3Acipgerpunk-dev+topic%3Aaws"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="28"></a>
+</p>
+
+###🛠️ Software & System Tools
+<p>
+  <a href="https://ubuntu.com/"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E9433F?style=for-the-badge&logo=ubuntu&logoColor=white" height="28"></a>
+
+  <a href="https://code.visualstudio.com/"><img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="28"></a>
+
+  <a href="https://www.jetbrains.com/"><img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" height="28"></a>
+
+  <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="28"></a>
+</p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <p>My Portfolio website</p>
 <a href="" target="_blank"><img src="" alt="Portfolio" width="150" ></a>
