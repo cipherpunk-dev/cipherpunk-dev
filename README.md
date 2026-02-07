@@ -1,5 +1,5 @@
 ### Hi there, I'm Sambhav Sharma 🔭
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=your_username&color=give_your_color)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
