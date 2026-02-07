@@ -10,6 +10,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### - Hobbies :
+-  Guitar
+-  Crosswords
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 ### 💻 Tech Stack & Digital Tools
 <p>
   <a href="https://github.com/search?q=user%3Acipgerpunk-dev+language%3Ahtml"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="28"></a>
