@@ -1,6 +1,6 @@
 ### Hi there, I'm Sambhav, A Passionate Learner and Programmer 🔭
 
-- 🔭 I’m currently working on **cube-ttt** - 🌱 I’m currently learning **Three.js**
+- 🔭 I’m currently working on **cube-ttt A game theory + web based game** - 🌱 I’m currently learning **Three.js**
 
 ### 🎸 Hobbies
 - Guitar
@@ -19,8 +19,6 @@
   <a href="https://github.com/search?q=user%3Acipgerpunk-dev+language%3Abash"><img alt="Terminal" src="https://img.shields.io/badge/Terminal-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" height="28"></a>
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 ## 📚 Frameworks & Libraries
 
 <p>
@@ -29,7 +27,6 @@
   <a href="https://github.com/search?q=user%3Acipgerpunk-dev+topic%3Anodejs"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28"></a>
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🗄️ Database & Cloud Infrastructure
 
@@ -38,7 +35,6 @@
   <a href="https://github.com/search?q=user%3Acipgerpunk-dev+topic%3Aaws"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="28"></a>
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🛠️ Software & System Tools
 
