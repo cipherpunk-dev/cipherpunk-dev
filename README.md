@@ -1,8 +1,6 @@
 ### Hi there, I'm Sambhav, A Passionate Learner and Programmer 🔭
 
-- 🔭 I’m currently working on **cube-ttt** - 🌱 I’m currently learning **Advanced Three.js & Cloud Architecture**
-- 👯 I’m looking to collaborate on **Web-based Games**
-- ⚡ Fun fact: I play the guitar and love solving crosswords.
+- 🔭 I’m currently working on **cube-ttt** - 🌱 I’m currently learning **Three.js**
 
 ### 🎸 Hobbies
 - Guitar
