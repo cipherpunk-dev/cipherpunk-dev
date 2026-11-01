@@ -4,6 +4,9 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+### 🌐 My Portfolio :
+[Check out my work here!](https://sambhav-portfolio-cyan.vercel.app/)
+
 ## 💻 Tech Stack & Digital Tools :
 
 <p>
@@ -46,9 +49,6 @@
 ### 🎸 Hobbies :
 - Guitar
 - Crosswords
-
-### 🌐 My Portfolio :
-[Check out my work here!](https://sambhav-portfolio-ai8luobgn-sambhav-sharma-s-projects.vercel.app/)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cipherpunk-dev/cipherpunk-dev/output/pacman-contribution-graph-dark.svg">
